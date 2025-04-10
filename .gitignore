@@ -1,0 +1,21 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code workspace settings (optional)
+.vscode/
+
+# Node modules (for frontend)
+node_modules/
+
+# Build output (optional)
+dist/
+build/
+
